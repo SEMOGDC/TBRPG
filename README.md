@@ -1,7 +1,7 @@
 TBRPG
 =====
 
-DGayle's Text-Based RPG
+DGeile's Text-Based RPG
 
 //I'm helping!
 
